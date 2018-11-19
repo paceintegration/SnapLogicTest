@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "EuromoneyDev"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "SnapLogicAdmin"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "64117f425f22b4908c91d21b31b063eddbb5fec7f8ef7e795700264eccf4122d",
+                "key": "account-cloud-managed-5ad7c17959ee13116e263f24-2018-04-18T22:07:12-565404+00:00",
+                "sym_iv": "r5nh2wVJpJkk+yd1dhpr4w==",
+                "sym_key": "VDSaoeFJ7XoMvnArwiFfu52eut8M6x3RdemEv0fgN4O6yadiicLW6Bw9zdxz1ZT/VaWxA29vl3YgZk4W7EETNE8ATnySIcbpOu1yCJ2cnSJlSNH3VBNvYscbZ2vcgixwJ7D7+XdbAdJa7sTF/vGKSeeaTruzaGS9jRmC6s1ZubI81/fGSiQxpZRrOD8QOEQ4OC6qtMsIny6OgMZ1l4fEWyespq6fmhvv2cGcm7fEbCZF1QmX3PYMKVxeGvkcK1NlD/LUcwptiBG3AxUJSaIxmios35r581OTCiezjFBziUCiDiIkHNP+cRtLEu3qytGhpiP+fjGJJkwhVvxh1r5Uvg==",
+                "value": "ca9detCRNTGQRUydffcykw=="
+            },
+            "username": {
+                "value": "elesh.mistry@snaplogic.com"
+            }
+        },
+        "view_serial": 100
+    }
+}

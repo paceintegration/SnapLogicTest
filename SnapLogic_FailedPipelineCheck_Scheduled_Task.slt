@@ -1,0 +1,69 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "SnapLogic_FailedPipelineCheck_Scheduled_Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "execution_timeout": null,
+        "include_external_urls": false,
+        "job_alias": null,
+        "job_type": "regular",
+        "llfeed_token": "zqBNOHQKOLUucVYtp134e6XfBM1vcGZd",
+        "max_failures": 10,
+        "max_in_flight": 200,
+        "notification": {
+            "recipients": null
+        },
+        "pipeline_path": "01_FailedPipelineCheck_Live",
+        "snaplex_path": "Cloudplex-Central"
+    },
+    "schedule": {
+        "repeat": {
+            "blackout_dates": [],
+            "by": "minutes",
+            "cron": {
+                "day": "*",
+                "day_of_week": "*",
+                "hour": "*",
+                "minute": "*",
+                "month": "*"
+            },
+            "ends": {
+                "occurrences": null,
+                "when": "never"
+            },
+            "every": 30,
+            "on": {
+                "day": []
+            }
+        },
+        "start_date": "2018-10-15",
+        "start_time": "13:30:00",
+        "time_zone": "UTC"
+    },
+    "trigger": {
+        "repeat": {
+            "blackout_dates": [],
+            "by": "minutes",
+            "cron": {
+                "day": "*",
+                "day_of_week": "*",
+                "hour": "*",
+                "minute": "*",
+                "month": "*"
+            },
+            "ends": {
+                "occurrences": null,
+                "when": "never"
+            },
+            "every": 30,
+            "on": {
+                "day": []
+            }
+        },
+        "start_date": "2018-10-15",
+        "start_time": "13:30:00",
+        "time_zone": "UTC"
+    },
+    "trigger_type": "ScheduleTrigger"
+}

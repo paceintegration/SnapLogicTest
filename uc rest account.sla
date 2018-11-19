@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "EuromoneyDev"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "uc rest account"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "64117f425f22b4908c91d21b31b063eddbb5fec7f8ef7e795700264eccf4122d",
+                "key": "account-cloud-managed-5ad7c17959ee13116e263f24-2018-04-18T22:07:12-565404+00:00",
+                "sym_iv": "BDf1wr56dbrnVyZ4nOSYCQ==",
+                "sym_key": "keHQDoQfJsciDUnaCpQSqregCZDB0JK3SZAUTHmKIvhG6JHETgbIorSCqEUIDJhpPBFpvU50uPkDBnei67tr653MwgnF6ZqLlmEX5izkJG4Sw0RmalDH2eikwAZkA1efyPn0CKRUn80IOTSKb8KxyCueEEFzUGi1dvHEbSxS39pLfwlYG3j5z13D7ngPQa+/jFA1hI4vB6e1zw+dS8yMo29+hJ2hPMEqQXwn7klrKmteHrG1D9D1Wxm+HIGEEhC3rfX2rP/TKrrWElasGaHpOKaCUaNN2hvjB8UfA0dQgDKwTdBliITc6uGElFoIXAIl1UG1JHWz/8vSiVTnKHp//Q==",
+                "value": "F004GGcNi1p/aYWlsR4fZw=="
+            },
+            "username": {
+                "value": "usama@paceintegration.com"
+            }
+        },
+        "view_serial": 100
+    }
+}

@@ -1,0 +1,9 @@
+"disDiscountID","disName","disProfitCentre","disClause","disProductCatalogueID","disSubDefinitionID","disOrderCodeID","disSourceCodeID","disStartDate","disEndDate"
+"1","Multi-Purchase","BBK","AND (pcProfitCentre = 'BBK'
+OR pcProfitCentre = 'BBI'
+OR pcProfitCentre = 'ETRB'
+OR pcProfitCentre = 'ETR'
+OR pcProfitCentre = 'BBS')","3815","5552","3704","4397","",""
+"3","Self Study Multi Purchase","ETR","AND pcType = 35","3626","5261","3526","4165","",""
+"5","10% discount!","MRH","","","","","","",""
+"6","Multi-Purchase","BDR","","","","","","",""

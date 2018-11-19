@@ -1,0 +1,79 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restoauth2account",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "EuromoneyDev"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "EM_Jira"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "auth_endpoint": {
+                "value": "https://accounts.atlassian.com/authorize"
+            },
+            "auth_endpoint_config": {
+                "value": [
+                    {
+                        "authParam": {
+                            "value": "response_type"
+                        },
+                        "authParamValue": {
+                            "value": "code"
+                        }
+                    },
+                    {
+                        "authParam": {
+                            "value": "prompt"
+                        },
+                        "authParamValue": {
+                            "value": "consent"
+                        }
+                    },
+                    {
+                        "authParam": {
+                            "value": "scope"
+                        },
+                        "authParamValue": {
+                            "value": "write:jira-work"
+                        }
+                    }
+                ]
+            },
+            "authorize": {
+                "value": null
+            },
+            "autoRefreshToken": {
+                "value": false
+            },
+            "client_id": {
+                "value": "YU1mM9C8k9LPvSGkABSNNSWnEiVoZ0OC"
+            },
+            "client_secret": {
+                "fp": "64117f425f22b4908c91d21b31b063eddbb5fec7f8ef7e795700264eccf4122d",
+                "key": "account-cloud-managed-5ad7c17959ee13116e263f24-2018-04-18T22:07:12-565404+00:00",
+                "sym_iv": "13wfuPmdxE5oYymvPEs+Kg==",
+                "sym_key": "c8xO4ogGl+sBZtl8pjWZcvmsa9A6/vKUmRAWa/+FR/DVWNUYWsrHSrrqg9XQNRrQhrJLbcNWhALIF7d1bZgX39YJcy+F0EywnZOz3kS4DTMUfQVQLHedW9WIMmQ09IgGGeMzEycCC+BMyADtKHBvQ38/xWpdfe2p5qaaA8sKfkxSyRlJudcj2GA7g1ty0ecNtRIpHGSUhw7usR+cjs4MXcwxOpckM9zVlqKwKEC0Psf2/C/iy0g7es/CT9ekfyAulmN7dYWn7URR4DbpwFQgKaouJ1UeXqZgbiV5Y8MiiyhNLaN7qjH+w+SXar4cMjHJTePA9NBZu5KScSWvHU3DiQ==",
+                "value": "sWCIHGVO2GCgISdk8RlhqzWg2Ut0a8x3lPV5LsM+isYWGDhN3XXSIM7W4WCKJyVERRIncGNq4JhWjZLNYrLnPSKA8ZPTLacIJNhvdYL1r+E="
+            },
+            "headerAuth": {
+                "value": true
+            },
+            "refresh": {
+                "value": null
+            },
+            "token_endpoint": {
+                "value": "https://accounts.atlassian.com/oauth/token"
+            },
+            "token_endpoint_config": {
+                "value": []
+            }
+        },
+        "view_serial": 100
+    }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "PipelineName": "01_BOABankTransferOut",
+    "CompletedState": "Completed",
+    "CompletionTime": "23/10/2018 12:32:40",
+    "ProductArea": "Finance"
+  },
+  {
+    "PipelineName": "FastMarkets Free Trial Request v2",
+    "CompletedState": "Completed",
+    "CompletionTime": "23/10/2018 12:23:48",
+    "ProductArea": "PRA"
+  },
+  {
+    "PipelineName": "FastMarkets Free Trial Request v2 (API)",
+    "CompletedState": "Failed",
+    "CompletionTime": "23/10/2018 12:23:45",
+    "ProductArea": "PRA"
+  },
+  {
+    "PipelineName": "01_BOABankTransferOut",
+    "CompletedState": "Completed",
+    "CompletionTime": "23/10/2018 12:18:28",
+    "ProductArea": "Finance"
+  },
+  {
+    "PipelineName": "03_NSProductSearch",
+    "CompletedState": "Completed",
+    "CompletionTime": "23/10/2018 12:04:13",
+    "ProductArea": "Finance"
+  },
+  {
+    "PipelineName": "04_NSCustomerValid",
+    "CompletedState": "Completed",
+    "CompletionTime": "23/10/2018 12:04:10",
+    "ProductArea": "Finance"
+  }
+]
